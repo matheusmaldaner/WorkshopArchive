@@ -1,5 +1,6 @@
 -- Select all records from the 'albums' table
--- Hint: In SQL, the * symbol denotes "all". Use this symbol to retrieve all columns from the 'albums' table.
+-- Hint: In SQL, the * symbol denotes "all". 
+--  Use this symbol to retrieve all columns from the 'albums' table
 SELECT * FROM albums;
 
 -- Select specific columns from the 'artists' table
