@@ -59,14 +59,14 @@ This workshop utilizes SQLite, a lightweight and serverless database, along with
    - `git clone https://github.com/matheusmaldaner/WorkshopSQL.git`
 2. Navigate to the [DB Browser for SQLite download page](https://sqlitebrowser.org/dl/) and download the appropriate version for your operating system.
 3. Install DB Browser for SQLite by following the installation prompts.
-4. Open the sample SQLite database file provided in the workshop materials using DB Browser.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-1. Launch DB Browser for SQLite and open the provided SQLite database file.
-2. Follow along with the workshop tutorial to learn how to execute SQL queries, view table structures, and more.
-3. For self-paced learners, refer to the workshop materials and exercises provided in the GitHub repository.
+1. Launch DB Browser for SQLite.
+2. Open the provided SQLite database file (chinook.db) provided in the workshop materials using DB Browser.
+3. Load the provided SQL file without answers (sql-problems-unsolved.sql) and fill the blanks accordingly.
+4. For self-paced learners, refer to the workshop materials and exercises provided in the GitHub repository.
 
 <!-- ROADMAP -->
 ## Roadmap
