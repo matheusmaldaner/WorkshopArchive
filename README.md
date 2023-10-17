@@ -1,17 +1,22 @@
-# Workshop Materials!
+# Welcome to Workshop Archive!
 
 Repository containing ongoing progress on current Data Science workshops. This is the central place where all the workshop materials, code, notes, and other relevant resources are stored.
 
 ## Directory Structure
 
 ```plaintext
-.
+WorkshopArchive
 ├── Github
 │   └── ...
 ├── Pandas
 │   └── ...
 ├── SQL
-│   └── ...
+│   ├── .gitattributes
+│   ├── README.md
+│   ├── chinook.db
+│   ├── sql-problems-solved.sql
+│   ├── sql-problems-unsolved.sql
+│   └── sql-slideshow.pdf
 ├── Tableau
 │   └── ...
 ├── README.md
@@ -20,7 +25,7 @@ Repository containing ongoing progress on current Data Science workshops. This i
 
 ## Workshops
 
-- **[SQL](./SQL/)** - Learn about Structured Query Language and its use in data retrieval and manipulation.
+- **[SQL](./SQL/)** - Introduction to SQL with SQLite & DB Browser.
   
 - **[Pandas](./Pandas/)** - Dive into the world of data manipulation with Pandas! This workshop covers the essentials of the Pandas library in Python.
 
@@ -40,4 +45,3 @@ Repository containing ongoing progress on current Data Science workshops. This i
 
 - **Matheus Kunzler Maldaner** - SQL Workshop [@matheusmaldaner](https://github.com/matheusmaldaner)
 - **Marielle Doenges** - Pandas Workshop [@marielledoenges](https://github.com/marielledoenges)
-
