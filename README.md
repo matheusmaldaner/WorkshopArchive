@@ -1,97 +1,43 @@
+# Workshop Materials!
 
+Repository containing ongoing progress on current Data Science workshops. This is the central place where all the workshop materials, code, notes, and other relevant resources are stored.
 
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <h3 align="center">SQL Workshop</h3>
+## Directory Structure
 
-  <p align="center">
-    Introduction to SQL with SQLite & DB Browser
-  </p>
-</p>
+```plaintext
+.
+├── Github
+│   └── ...
+├── Pandas
+│   └── ...
+├── SQL
+│   └── ...
+├── Tableau
+│   └── ...
+├── README.md
+└── ...
+```
 
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-workshop">About The Workshop</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#dependencies">Dependencies</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#authors">Authors</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
-  </ol>
-</details>
+## Workshops
 
-<!-- ABOUT THE WORKSHOP -->
-## About The Workshop
+- **[SQL](./SQL/)** - Learn about Structured Query Language and its use in data retrieval and manipulation.
+  
+- **[Pandas](./Pandas/)** - Dive into the world of data manipulation with Pandas! This workshop covers the essentials of the Pandas library in Python.
 
-This workshop introduces participants to the basics of SQL using SQLite and DB Browser. Participants will learn how to create, query, and manipulate databases.
+[//]: # "- **[Tableau](./Tableau/)** - Explore the power of data visualization with Tableau."
 
-[Workshop Materials Link](https://github.com/matheusmaldaner/WorkshopSQL)
+[//]: # "- **[Github](./Github/)** - Contains materials related to our workshop on Github."
 
-<!-- GETTING STARTED -->
-## Getting Started
+## Contributing
 
-This workshop utilizes SQLite, a lightweight and serverless database, along with DB Browser for SQLite, a user-friendly interface for SQLite databases.
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-### Dependencies
+## Credits
 
-* SQLite
-* DB Browser for SQLite
+- **Matheus Kunzler Maldaner** - SQL Workshop [@matheusmaldaner](https://github.com/matheusmaldaner)
+- **Marielle Doenges** - Pandas Workshop [@marielledoenges](https://github.com/marielledoenges)
 
-### Installation
-
-1. Download the workshop materials from the GitHub repository.
-   - `git clone https://github.com/matheusmaldaner/WorkshopSQL.git`
-2. Navigate to the [DB Browser for SQLite download page](https://sqlitebrowser.org/dl/) and download the appropriate version for your operating system.
-3. Install DB Browser for SQLite by following the installation prompts.
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-1. Launch DB Browser for SQLite.
-2. Open the provided SQLite database file (chinook.db) provided in the workshop materials using DB Browser.
-3. Load the provided SQL file without answers (sql-problems-unsolved.sql) and fill the blanks accordingly.
-4. For self-paced learners, refer to the workshop materials and exercises provided in the GitHub repository.
-
-<!-- ROADMAP -->
-## Roadmap
-
-1. Introduction to SQL and its importance.
-2. Basics of SQL queries (`SELECT`, `WHERE`, `JOIN`, etc.).
-3. Hands-on exercises and challenges.
-4. Advanced SQL topics (if time permits).
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-<!-- Authors -->
-## Authors
-
-Matheus Kunzler Maldaner - [Github](https://github.com/matheusmaldaner)
-
-Workshop Link: [Link](https://github.com/matheusmaldaner/WorkshopSQL)
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* Data Science and Informatics for hosting the workshop.
-* Drew Smith for peer reviewing the material.
-
-## Thank you
