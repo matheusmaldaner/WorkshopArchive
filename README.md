@@ -7,9 +7,12 @@ Repository containing ongoing progress on current Data Science workshops. This i
 ```plaintext
 WorkshopArchive
 ├── Github
-│   └── ...
+│   └── (coming soon)
 ├── Pandas
-│   └── ...
+│   ├── Pandas Workshop.ipynb
+│   ├── README.md
+│   ├── pandas-slideshow.pdf
+│   └── spotify-2023.csv 
 ├── SQL
 │   ├── .gitattributes
 │   ├── README.md
@@ -18,7 +21,7 @@ WorkshopArchive
 │   ├── sql-problems-unsolved.sql
 │   └── sql-slideshow.pdf
 ├── Tableau
-│   └── ...
+│   └── (coming soon)
 ├── README.md
 └── ...
 ```
