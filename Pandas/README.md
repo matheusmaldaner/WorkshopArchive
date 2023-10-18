@@ -82,8 +82,6 @@ Matheus Kunzler Maldaner - [Github](https://github.com/matheusmaldaner)
 
 Marielle Doenges -  [Github](https://github.com/marielledoenges)
 
-Workshop Link: [Link](https://github.com/matheusmaldaner/WorkshopArchive/Pandas)
-
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
