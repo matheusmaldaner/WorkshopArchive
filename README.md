@@ -7,7 +7,7 @@ Repository containing ongoing progress on current Data Science workshops. This i
 ```plaintext
 WorkshopArchive
 ├── Github
-│   └── (coming soon)
+│   └── git-slideshow.pdf
 ├── Pandas
 │   ├── Pandas Workshop.ipynb
 │   ├── README.md
