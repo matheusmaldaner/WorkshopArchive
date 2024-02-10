@@ -63,7 +63,13 @@ This workshop utilizes Tableau, an industry-leading data visualization tool that
 ## Usage
 
 1. Launch Tableau Desktop.
-2. Open the provided dataset or connect Tableau to your own data source.
+2. Open the Provided Dataset or Connect Tableau to Your Own Data Source:
+   - If using the provided dataset `train.csv`, follow these steps:
+     - Open Tableau Desktop.
+     - Click on "Connect to Data" or "To a File" depending on your Tableau version.
+     - Navigate to the location where your `train.csv` file is stored.
+     - Select the file and click "Open" or "Connect" to load it into Tableau.
+3. Open the `workshop-instructions.md` file provided in this repository for detailed instructions on using Tableau with the Titanic dataset.
 3. Create interactive visualizations using Tableau's intuitive interface.
 4. Explore various visualization types, filters, and calculations to gain insights from your data.
 
