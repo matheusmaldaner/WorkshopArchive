@@ -56,7 +56,7 @@ This workshop utilizes Tableau, an industry-leading data visualization tool that
 ### Installation
 
 1. Download the workshop materials from the GitHub repository.
-   - `git clone https://github.com/kylwein/WorkshopBackstage/Tableau.git`
+   - `git clone https://github.com/matheusmaldaner/WorkshopArchive/Tableau.git`
 2. Navigate to the [Tableau Public Download Page](https://www.tableau.com/products/public/download) and download the appropriate version for your operating system. (You can download Tableau Pro as well if you sign up with [UF](https://www.tableau.com/academic/students))
 
 <!-- USAGE EXAMPLES -->
