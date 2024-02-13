@@ -21,7 +21,10 @@ WorkshopArchive
 │   ├── sql-problems-unsolved.sql
 │   └── sql-slideshow.pdf
 ├── Tableau
-│   └── (coming soon)
+│   ├── README.md
+│   ├── tableau=slideshow.pdf
+│   ├── train.csv
+│   └── workshop-instructions.md
 ├── README.md
 └── ...
 ```
@@ -32,7 +35,7 @@ WorkshopArchive
   
 - **[Pandas](./Pandas/)** - Dive into the world of data manipulation with Pandas! This workshop covers the essentials of the Pandas library in Python.
 
-[//]: # "- **[Tableau](./Tableau/)** - Explore the power of data visualization with Tableau."
+- **[Tableau](./Tableau/)** - Explore the power of data visualization with Tableau. Covers how to implement and present data in Tableau.
 
 [//]: # "- **[Github](./Github/)** - Contains materials related to our workshop on Github."
 
@@ -48,3 +51,4 @@ WorkshopArchive
 
 - **Matheus Kunzler Maldaner** - SQL Workshop [@matheusmaldaner](https://github.com/matheusmaldaner)
 - **Marielle Doenges** - Pandas Workshop [@marielledoenges](https://github.com/marielledoenges)
+- **Kyle Weiner** - Tableau Workshop [@kylwein](https://github.com/kylwein)
