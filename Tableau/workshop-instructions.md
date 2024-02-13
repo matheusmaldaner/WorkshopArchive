@@ -31,7 +31,7 @@ This workshop guide provides step-by-step instructions on how to explore and vis
 - **Duplicate Sheet:** Duplicate the current sheet to explore other variables.
 - **Swapping Variables:** Swap out variables like 'Age Bin' for 'Passenger Class' or other variables of interest.
 - **Visualizing Different Variables:** Analyze the distribution and relationship of new variables with survival rate.
-- **Custom Calculated Field:** Create custom calculated fields if needed.
+- **Custom Calculated Field:** Create custom calculated fields if needed. [Here](https://help.tableau.com/current/pro/desktop/en-us/functions_functions_logical.htm) is the extent of programming that Tableau can handle.
 
 ### 5. Dashboard Creation:
 
