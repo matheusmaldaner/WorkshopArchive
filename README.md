@@ -22,9 +22,16 @@ WorkshopArchive
 │   └── sql-slideshow.pdf
 ├── Tableau
 │   ├── README.md
-│   ├── tableau=slideshow.pdf
+│   ├── tableau-slideshow.pdf
 │   ├── train.csv
 │   └── workshop-instructions.md
+├── Matplotlib
+│   ├── README.md
+│   └── (TBD)
+├── CurrentStateOfAI
+│   ├── README.md
+│   ├── AI-Overview.pdf
+│   └── (TBD)
 ├── README.md
 └── ...
 ```
@@ -37,7 +44,9 @@ WorkshopArchive
 
 - **[Tableau](./Tableau/)** - Explore the power of data visualization with Tableau. Covers how to implement and present data in Tableau.
 
-[//]: # "- **[Github](./Github/)** - Contains materials related to our workshop on Github."
+- **[Matplotlib](./Matplotlib/)** - Learn the art of data visualization in Python with Matplotlib. This workshop provides a comprehensive introduction to creating static, animated, and interactive visualizations.
+
+- **[Current State of AI](./CurrentStateOfAI/)** - Delve into the latest developments and trends in artificial intelligence. This workshop offers insights into current AI technologies, applications, and ethical considerations.
 
 ## Contributing
 
@@ -52,3 +61,5 @@ WorkshopArchive
 - **Matheus Kunzler Maldaner** - SQL Workshop [@matheusmaldaner](https://github.com/matheusmaldaner)
 - **Marielle Doenges** - Pandas Workshop [@marielledoenges](https://github.com/marielledoenges)
 - **Kyle Weiner** - Tableau Workshop [@kylwein](https://github.com/kylwein)
+- **[EDIT]** - Matplotlib Workshop
+- **[EDIT]** - Current State of AI Workshop
