@@ -25,9 +25,9 @@ WorkshopArchive
 │   ├── tableau-slideshow.pdf
 │   ├── train.csv
 │   └── workshop-instructions.md
-├── Matplotlib
+├── NumPy & MatPlotLib
 │   ├── README.md
-│   └── (TBD)
+│   └── notebook.ipynb
 ├── CurrentStateOfAI
 │   ├── README.md
 │   ├── AI-Overview.pdf
@@ -44,7 +44,7 @@ WorkshopArchive
 
 - **[Tableau](./Tableau/)** - Explore the power of data visualization with Tableau. Covers how to implement and present data in Tableau.
 
-- **[Matplotlib](./Matplotlib/)** - Learn the art of data visualization in Python with Matplotlib. This workshop provides a comprehensive introduction to creating static, animated, and interactive visualizations.
+- **[Matplotlib](./Matplotlib/)** - Learn how to work with multidimensional arrays in NumPy. Also learn basic data visualization with MatPlotLib.
 
 - **[Current State of AI](./CurrentStateOfAI/)** - Delve into the latest developments and trends in artificial intelligence. This workshop offers insights into current AI technologies, applications, and ethical considerations.
 
@@ -61,5 +61,5 @@ WorkshopArchive
 - **Matheus Kunzler Maldaner** - SQL Workshop [@matheusmaldaner](https://github.com/matheusmaldaner)
 - **Marielle Doenges** - Pandas Workshop [@marielledoenges](https://github.com/marielledoenges)
 - **Kyle Weiner** - Tableau Workshop [@kylwein](https://github.com/kylwein)
-- **[EDIT]** - Matplotlib Workshop
+- **Jim Su** - NumPy & MatPlotLib Workshop [@yimothysu](https://github.com/yimothysu)
 - **[EDIT]** - Current State of AI Workshop
