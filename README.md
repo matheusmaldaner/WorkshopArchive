@@ -10,7 +10,7 @@ Access workshop content quickly with concise descriptions and recognition of our
 |----------|-------------|--------------|
 | [Applied Machine Learning](./Applied_ML/) | Applied machine learning techniques. | [Hunor](https://github.com/umm-sure) |
 | [Convolutional Neural Networks](./CNNS/) | Convolutional Neural Networks for image tasks. | [Jim](https://github.com/yimothysu), [Matheus](https://github.com/matheusmaldaner) |
-| [Git and Github](./Git/) | Essentials of Git for version control. | [Zach](https://github.com/zachhracho), [Matheus](https://github.com/matheusmaldaner) |
+| [Git and Github](./Git/) | Essentials of Git for version control. | [Zach](https://github.com/zhracho), [Matheus](https://github.com/matheusmaldaner) |
 | [Language Models](./LanguageModels/) | NLP and advanced language models. | [Sebastian](https://github.com/CakeCrusher), [Matheus](https://github.com/matheusmaldaner) |
 | [NumPy and MatPlotLib](./NumPy%20%26%20MatPlotLib/) | Numerical computing and data visualization. | [Jim](https://github.com/yimothysu), [Matheus](https://github.com/matheusmaldaner) |
 | [Pandas](./Pandas/) | Data analysis with Pandas. | [Marielle](https://github.com/marielledoenges) |
