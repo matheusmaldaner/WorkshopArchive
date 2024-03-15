@@ -1,6 +1,6 @@
 # Welcome to Workshop Archive!
 
-Here you will find a list of comprehensive Data Science workshops hosted by organizations at the University of Florida.
+Here you will find hands-on workshops hosted by organizations at the University of Florida.
 
 ## Workshops Overview
 
