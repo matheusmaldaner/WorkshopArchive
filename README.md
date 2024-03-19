@@ -24,6 +24,6 @@ We encourage community contributions:
 3. Commit your improvements.
 4. Push to your branch.
 5. Submit a PR.
-6. 
+
 ## Acknowledgements
 Special thanks to all our workshop creators and contributors, as well as our participants who continue to attend the in person sessions.
