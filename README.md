@@ -1,34 +1,5 @@
-# Welcome to Workshop Archive!
+![изображение](https://github.com/matheusmaldaner/WorkshopArchive/assets/68019055/1660a1e6-b1c3-4cda-b52d-9e3798fda8dd)
 
-Here you will find hands-on workshops hosted by organizations at the University of Florida.
+[![*](https://github.com/matheusmaldaner/WorkshopArchive/assets/68019055/1b2e128f-7811-4bdc-81de-085f57aac6c2)](https://tinyurl.com/3xcd97wm)
 
-## Workshops Overview
-
-Access workshop content quickly with concise descriptions and recognition of our valued contributors:
-
-| Workshop | Description | Contributors |
-|----------|-------------|--------------|
-| [Applied Machine Learning](./Workshops/Applied_ML/) | Applied machine learning techniques. | [Hunor](https://github.com/umm-sure) |
-| [Convolutional Neural Networks](./Workshops/CNNS/) | Convolutional Neural Networks for image tasks. | [Jim](https://github.com/yimothysu), [Matheus](https://github.com/matheusmaldaner) |
-| [Git and Github](./Workshops/Git/) | Essentials of Git for version control. | [Zach](https://github.com/zhracho), [Matheus](https://github.com/matheusmaldaner) |
-| [Language Models](./Workshops/LanguageModels/) | NLP and advanced language models. | [Sebastian](https://github.com/CakeCrusher), [Matheus](https://github.com/matheusmaldaner) |
-| [NumPy and MatPlotLib](./Workshops/NumPy%20%26%20MatPlotLib/) | Numerical computing and data visualization. | [Jim](https://github.com/yimothysu), [Matheus](https://github.com/matheusmaldaner) |
-| [Pandas](./Workshops/Pandas/) | Data analysis with Pandas. | [Marielle](https://github.com/marielledoenges) |
-| [PyTorch](./Workshops/PyTorch/) | Deep learning with PyTorch. | [Jim](https://github.com/yimothysu), [Matheus](https://github.com/matheusmaldaner) |
-| [SQL](./Workshops/SQL/) | SQL database manipulation and querying. | [Matheus](https://github.com/matheusmaldaner) |
-| [Tableau](./Workshops/Tableau/) | Data insights using Tableau. | [Kyle](https://github.com/kylwein) |
-
-
-## How to Contribute
-
-We encourage community contributions:
-
-1. Fork the repo.
-2. Create your feature branch.
-3. Commit your improvements.
-4. Push to your branch.
-5. Submit a PR.
-
-## Acknowledgements
-
-Special thanks to all our workshop creators and contributors, as well as our participants who continue to attend the in person sessions.
+## Pass - 2024
