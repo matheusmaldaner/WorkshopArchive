@@ -110,7 +110,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Jim Su - [@yimothysu](https://github.com/yimothysu)
 
-Matheus Kunzler Maldaner - [Github](https://github.com/matheusmaldaner)
+Matheus Kunzler Maldaner - [@matheusmaldaner](https://github.com/matheusmaldaner)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
