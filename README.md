@@ -6,6 +6,7 @@ Access workshop content quickly with concise descriptions and recognition of our
 
 | Workshop | Description | Contributors |
 |----------|-------------|--------------|
+| [AI Chronicles](./Workshops/AI_Chronicles/) | Exploring the past, present, and future of AI. | [Matt](https://github.com/matthewdeguzman), [Jim](https://github.com/yimothysu), [Matheus](https://github.com/matheusmaldaner) |
 | [Applied Machine Learning](./Workshops/Applied_ML/) | Applied machine learning techniques. | [Hunor](https://github.com/umm-sure) |
 | [Convolutional Neural Networks](./Workshops/CNNS/) | Convolutional Neural Networks for image tasks. | [Jim](https://github.com/yimothysu), [Matheus](https://github.com/matheusmaldaner) |
 | [Git and Github](./Workshops/Git/) | Essentials of Git for version control. | [Zach](https://github.com/zhracho), [Matheus](https://github.com/matheusmaldaner) |
