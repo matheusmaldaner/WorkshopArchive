@@ -6,6 +6,7 @@ Access workshop content quickly with concise descriptions and recognition of our
 
 | Workshop | Description | Contributors |
 |----------|-------------|--------------|
+| [GPU Accelerated Scientific Computing](./Workshops/Intro_GPU/) | Intro to GPU Accelerated Workflows. | [Raul](https://github.com/Jibby2k1)
 | [AI Chronicles](./Workshops/AI_Chronicles/) | Exploring the past, present, and future of AI. | [Matt](https://github.com/matthewdeguzman), [Jim](https://github.com/yimothysu), [Matheus](https://github.com/matheusmaldaner) |
 | [Applied Machine Learning](./Workshops/Applied_ML/) | Applied machine learning techniques. | [Hunor](https://github.com/umm-sure) |
 | [Convolutional Neural Networks](./Workshops/CNNS/) | Convolutional Neural Networks for image tasks. | [Jim](https://github.com/yimothysu), [Matheus](https://github.com/matheusmaldaner) |
