@@ -39,34 +39,33 @@
 <!-- ABOUT THE WORKSHOP -->
 ## About The Workshop
 
-This workshop introduces participants to the basics of SQL using SQLite and DB Browser. Participants will learn how to create, query, and manipulate databases.
+This workshop introduces participants to the basics of SQL using MySQL and MariaDB. Participants will learn how to create, query, and manipulate databases.
 
 [Workshop Materials Link](https://github.com/matheusmaldaner/WorkshopSQL)
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This workshop utilizes SQLite, a lightweight and serverless database, along with DB Browser for SQLite, a user-friendly interface for SQLite databases.
-
-### Dependencies
-
-* SQLite
-* DB Browser for SQLite
+This workshop both MySQL and MariaDB, and are thus required.
 
 ### Installation
 
 1. Download the workshop materials from the GitHub repository.
-   - `git clone https://github.com/matheusmaldaner/WorkshopSQL.git`
-2. Navigate to the [DB Browser for SQLite download page](https://sqlitebrowser.org/dl/) and download the appropriate version for your operating system.
-3. Install DB Browser for SQLite by following the installation prompts.
+2. Go to https://mariadb.org/ and click Download
+3. Scroll down and click Download
+4. Wait for download, then open the wizard
+5. Click Next, then accept the license agreement, then click Next two more times
+6. Select a password for the root (keep this stored somewhere!!!), then click Next two more times
+7. Click Install, wait for the installation, then click Finish
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-1. Launch DB Browser for SQLite.
-2. Open the provided SQLite database file (chinook.db) provided in the workshop materials using DB Browser.
-3. Load the provided SQL file without answers (sql-problems-unsolved.sql) and fill the blanks accordingly.
-4. For self-paced learners, refer to the workshop materials and exercises provided in the GitHub repository.
+1. Open HeidiSQL (there should be a shortcut on your computer for it now)
+2. Click Open (bottom left), then type your password (the username should be “root”)
+3. Click on File (top left), then Load SQL File, and select world.sql
+4. Repeat for sqlworkshopproblems.sql, and answer the questions provided
+5. For self-paced learners, refer to the workshop materials and exercises provided in the GitHub repository.
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -84,7 +83,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- Authors -->
 ## Authors
 
-Matheus Kunzler Maldaner - [Github](https://github.com/matheusmaldaner)
+Marc Marquez
 
 Workshop Link: [Link](https://github.com/matheusmaldaner/WorkshopSQL)
 
@@ -92,6 +91,6 @@ Workshop Link: [Link](https://github.com/matheusmaldaner/WorkshopSQL)
 ## Acknowledgements
 
 * Data Science and Informatics for hosting the workshop.
-* Drew Smith for peer reviewing the material.
+* Marielle Doenges for peer reviewing the material.
 
 ## Thank you
