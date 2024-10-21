@@ -16,7 +16,7 @@ Access workshop content quickly with concise descriptions and recognition of our
 | [NumPy and MatPlotLib](./Workshops/NumPy%20%26%20MatPlotLib/) | Numerical computing and data visualization. | [Jim](https://github.com/yimothysu), [Matheus](https://github.com/matheusmaldaner) |
 | [Pandas](./Workshops/Pandas/) | Data analysis with Pandas. | [Marielle](https://github.com/marielledoenges) |
 | [PyTorch](./Workshops/PyTorch/) | Deep learning with PyTorch. | [Jim](https://github.com/yimothysu), [Matheus](https://github.com/matheusmaldaner) |
-| [SQL](./Workshops/SQL/) | SQL database manipulation and querying. | [Matheus](https://github.com/matheusmaldaner) |
+| [SQL](./Workshops/SQL%2024/) | SQL database manipulation and querying. | [Mark](https://github.com/marc-marquez11) |
 | [Tableau](./Workshops/Tableau/) | Data insights using Tableau. | [Kyle](https://github.com/kylwein) |
 
 
