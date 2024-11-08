@@ -21,7 +21,7 @@ Access workshop content quickly with concise descriptions and recognition of our
 | [SQL](./Workshops/SQL%202024/)                                 | SQL database manipulation and querying.        | [Marc](https://github.com/marc-marquez11)                                                                                |
 | [Tableau](./Workshops/Tableau/)                                | Data insights using Tableau.                   | [Kyle](https://github.com/kylwein)                                                                                       |
 | [Sentence Transformers](./Workshops/Sentence_Transformers/)                                | Using Sentence Transformers for Semantic Search.                  | [Tristan](https://github.com/tristanpank)  
- 
+                       |
 | [Intro To Neural Networks](./Workshops/Intro%20To%20Neural%20Networks/) | Algorithms needed for Neural Networks with code examples | [Ishan](https://github.com/ishanrk)
 
 ## How to Contribute
