@@ -23,7 +23,7 @@ Access workshop content quickly with concise descriptions and recognition of our
 | [Sentence Transformers](./Workshops/Sentence_Transformers/)                                | Using Sentence Transformers for Semantic Search.                  | [Tristan](https://github.com/tristanpank)  
                         |
 | [Intro To Neural Networks](./Workshops/Intro%20To%20Neural%20Networks/) | Algorithms needed for Neural Networks with code examples | [Ishan](https://github.com/ishanrk)
-
+    |
 ## How to Contribute
 
 We encourage community contributions:
