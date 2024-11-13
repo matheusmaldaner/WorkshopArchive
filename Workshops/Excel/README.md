@@ -46,8 +46,10 @@ This workshop uses Microsoft Excel, and is thus required.
 
 1. Download the workshop materials from the GitHub repository.
 2. Open a new workbook (.xlsx) on Microsoft Excel.
-3. Under the data tab, click Get Data, then From File, and From Text/CSV
-4. Select "netflix_shows_movies.csv" (from the workshop materials)
+3. Under the data tab, click Get Data, then From File, and From Text/CSV.
+4. Select "netflix_shows_movies.csv" (from the workshop materials).
+5. Prepare the data for analysis.
+6. Create visualizations.
 
 <!-- ROADMAP -->
 ## Roadmap
