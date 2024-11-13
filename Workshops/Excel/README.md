@@ -34,7 +34,7 @@
 <!-- ABOUT THE WORKSHOP -->
 ## About The Workshop
 
-This workshop introduces participants to the basics of data visualization in Microsoft Excel. Participants will learn how to create pivot tables, charts, and dashboards
+This workshop introduces participants to the basics of data visualization in Microsoft Excel. Participants will learn how to create pivot tables, charts, and interactive dashboards.
 
 [Workshop Materials Link](https://github.com/matheusmaldaner/WorkshopSQL)
 
