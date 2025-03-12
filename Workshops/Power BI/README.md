@@ -35,7 +35,7 @@
 
 This workshop introduces participants to the basics of data visualization in Microsoft Power BI. Participants will learn how to create and interpret reports.
 
-[Workshop Materials Link](https://github.com/matheusmaldaner/Workshop/Power%20BI)
+[Workshop Materials Link](https://github.com/matheusmaldaner/WorkshopSQL)
 
 <!-- GETTING STARTED -->
 ## Getting Started
