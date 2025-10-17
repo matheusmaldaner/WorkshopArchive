@@ -23,6 +23,7 @@ Access workshop content quickly with concise descriptions and recognition of our
 | [Tableau](./Workshops/Tableau/)                                | Data insights using Tableau.                   | [Kyle](https://github.com/kylwein)                                                                                       |
 | [Sentence Transformers](./Workshops/Sentence_Transformers/)                                | Using Sentence Transformers for Semantic Search.                  | [Tristan](https://github.com/tristanpank)  
 | [Intro To Neural Networks](./Workshops/Intro%20To%20Neural%20Networks/) | Algorithms needed for Neural Networks | [Ishan](https://github.com/ishanrk)
+| [Intro to Web Scraping](./Workshops/Intro%20to%20Wen%20Scraping/) | Web Scraping data into Python for use.      | [Patrick](https://github.com/rickpatking)                                                                           |
     
 ## How to Contribute
 
