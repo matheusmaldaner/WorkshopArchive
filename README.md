@@ -24,6 +24,7 @@ Access workshop content quickly with concise descriptions and recognition of our
 | [Sentence Transformers](./Workshops/Sentence_Transformers/)                                | Using Sentence Transformers for Semantic Search.                  | [Tristan](https://github.com/tristanpank)  
 | [Intro To Neural Networks](./Workshops/Intro%20To%20Neural%20Networks/) | Algorithms needed for Neural Networks | [Ishan](https://github.com/ishanrk)
 | [Intro to Web Scraping](./Workshops/Intro%20to%20Web%20Scraping) | Web Scraping data into Python for use.       | [Patrick](https://github.com/rickpatking)                                                                           |
+|[Intro to R](./Workshops/Intro%20to%20R) | Introduction to programming in R. | [Anjali](https://github.com/wahmbat) |
     
 ## How to Contribute
 
